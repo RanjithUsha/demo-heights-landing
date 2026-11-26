@@ -4,26 +4,26 @@
  */
 const PROJECT_CONFIG = {
   meta: {
-    title: "Demo Heights | 2, 3 & 4 BHK | Whitefield, Bengaluru",
+    title: "Solaris Heights | 2, 3 & 4 BHK | Whitefield, Bengaluru",
     description:
       "Premium 2, 3 & 4 BHK homes in Whitefield. Starting price on request. RERA registered. Enquire on WhatsApp.",
     themeColor: "#1a3c34",
   },
 
   brand: {
-    projectName: "Demo Heights",
+    projectName: "Solaris Heights",
     tagline: "At Whitefield, East Bengaluru",
-    developer: "By Demo Developers",
+    developer: "By Solaris  Developers",
     logo: "img/1.jpeg",
-    logoAlt: "Demo Heights logo",
+    logoAlt: "Solaris Heights logo",
   },
 
   contact: {
-    phoneDisplay: "+91 98765 43210",
-    phoneTel: "+919876543210",
-    whatsapp: "919876543210",
+    phoneDisplay: "+91 8884879963",
+    phoneTel: "+9 8884879963",
+    whatsapp: "91 8884879963",
     whatsappMessage:
-      "Hi, I am interested in Demo Heights at Whitefield. Please share price and availability.",
+      "Hi, I am interested in Solaris Heights at Whitefield. Please share price and availability.",
   },
 
   /**
@@ -74,9 +74,9 @@ const PROJECT_CONFIG = {
   ],
 
   overview: {
-    title: "About Demo Heights",
+    title: "About Solaris Heights",
     text:
-      "Demo Heights is a premium residential development in Whitefield, East Bengaluru. The project offers spacious homes, landscaped open spaces, and lifestyle amenities designed for modern families. Location offers easy access to IT parks, schools, healthcare, and retail.",
+      "Solaris Heights is a premium residential development in Whitefield, East Bengaluru. The project offers spacious homes, landscaped open spaces, and lifestyle amenities designed for modern families. Location offers easy access to IT parks, schools, healthcare, and retail.",
     highlightsTitle: "Why choose this project",
     highlights: [
       "Premium residences by an established developer",
@@ -212,7 +212,7 @@ const PROJECT_CONFIG = {
   developer: {
     title: "About the developer",
     text:
-      "Demo Developers has delivered residential and commercial projects across Bengaluru with a focus on quality construction, timely delivery, and customer service. Replace this paragraph with your client's official developer bio.",
+      "Solaris Developers has delivered residential and commercial projects across Bengaluru with a focus on quality construction, timely delivery, and customer service. Replace this paragraph with your client's official developer bio.",
   },
 
   legal: {

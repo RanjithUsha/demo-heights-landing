@@ -1,0 +1,77 @@
+PASTE EACH LINE AS THE "QUESTION TITLE" IN GOOGLE FORMS (pick type shown in brackets)
+
+--- FORM TITLE ---
+New Project Website — Client Details (₹6,000 Package)
+
+--- SECTION 1 ---
+[Short] Full name of person filling this form *
+[Short] Business / marketing name (privacy policy & footer) *
+[Short] Project name (website headline) *
+[Short] Location line (e.g. At Whitefield, East Bengaluru) *
+[Short] Developer name (e.g. By XYZ Developers) *
+[Short] BHK summary (e.g. 2, 3 & 4 BHK) *
+[Short] Starting price text (e.g. ₹ 1.07 Cr* Onwards) *
+[Paragraph] Project overview (About section paragraph) *
+
+--- SECTION 2 ---
+[Short] Phone for Call button (with +91) *
+[Short] WhatsApp number (91 + 10 digits, no plus) *
+[Paragraph] Default WhatsApp enquiry message *
+[Short] Email for privacy policy *
+
+--- SECTION 3 ---
+[Paragraph] Config 1: BHK, sq.ft, price (3 lines) *
+[Paragraph] Config 2 (optional)
+[Paragraph] Config 3 (optional)
+[Paragraph] Config 4 (optional)
+[Short] Pricing note (*Prices indicative...) *
+
+--- SECTION 4 ---
+[Paragraph] Highlights — one per line (5-8) *
+[Paragraph] Amenities — one per line *
+[Paragraph] Hero stats optional (acres, open %, towers)
+
+--- SECTION 5 ---
+[Paragraph] Connectivity bullets with distances *
+[Paragraph] Education (optional)
+[Paragraph] Healthcare (optional)
+[Paragraph] Malls & retail (optional)
+[Short] Google Maps SHARE link (Share → Copy link) *
+[Short] Google Maps EMBED url (optional)
+[Paragraph] Full address if map unavailable
+
+--- SECTION 6 ---
+[File] Logo *
+[File] Hero banner desktop *
+[File] Hero banner mobile
+[File] Master plan *
+[File] Floor plan 1
+[File] Floor plan 2
+[File] Floor plan 3
+[File] Gallery (multiple files) *
+[File] OR all images in ZIP
+
+--- SECTION 7 ---
+[Short] FAQ 1 question *
+[Paragraph] FAQ 1 answer *
+[Short] FAQ 2 question
+[Paragraph] FAQ 2 answer
+[Short] FAQ 3 question
+[Paragraph] FAQ 3 answer
+[Short] FAQ 4 question
+[Paragraph] FAQ 4 answer
+[Paragraph] About the developer *
+
+--- SECTION 8 ---
+[Paragraph] RERA number(s) *
+[MC] I confirm we can use uploaded images for marketing *
+[MC] I confirm indicative prices are approved *
+[MC] Disclaimer: standard template OR custom
+[Paragraph] Custom disclaimer text
+
+--- SECTION 9 ---
+[Short] Preferred netlify name (project-url)
+[Date] Desired go-live date
+[Paragraph] Additional notes
+
+* = mark Required in Google Forms
